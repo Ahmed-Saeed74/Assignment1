@@ -1,3 +1,7 @@
+//Name : أحمد سامح عبد الصبور منصور   Sec : 1  B.N : 3 
+//Name :  أحمد سعيد عبد الرؤف احمد   Sec : 1  B.N : 4 
+//Name :      أحمد شريف سيد كامل  Sec : 1  B.N : 5
+// github link  https://github.com/Ahmed-Saeed74/Assignment1
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
